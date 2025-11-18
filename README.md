@@ -20,7 +20,7 @@ Players discover creatures, battle in turn-based encounters, and level up their 
 
 ---
 
-## Setup & Running
+## Setup & Running  
 
 Install dependencies:
 
